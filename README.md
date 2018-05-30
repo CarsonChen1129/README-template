@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Carson Chen** - *Initial work* - [CarsonChen](https://github.com/CarsonChen1129)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
